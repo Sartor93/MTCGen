@@ -4,7 +4,7 @@
 This plugin is an early prototype and still has known bugs and rough edges.  
 Use at your own risk, and please report any issues or feature requests in the issue tracker.
 
-**MTCGen** is a MIDI‑effect VST3 plugin built with JUCE that lets you map individual MIDI notes to preset start timecodes, then generates synchronized MIDI Timecode (MTC) streams—either Full SysEx or Quarter‑Frame—when those notes play. Perfect for driving light‑show consoles, external recorders, or any device that accepts MIDI Timecode.
+**MTCGen** is a MIDI‑effect VST3 plugin built with JUCE that lets you map individual MIDI notes to preset start timecodes, then generates synchronized MIDI Timecode (MTC) streams - either Full SysEx or Quarter‑Frame - when those notes play. Perfect for driving light‑show consoles, external recorders, or any device that accepts MIDI Timecode.
 
 
 ## Features
