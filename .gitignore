@@ -1,0 +1,63 @@
+# ===== Projucer / JUCE =====
+*.jucer.user
+# If you embed the JUCE modules in your repo, don’t ignore them;
+# otherwise ignore juce/modules if you fetch them separately.
+# juce/modules/
+
+# ===== Build artifacts =====
+/Builds/
+/Build/
+/bin/
+/Debug/
+/Release/
+/*.vst3
+/*.component
+/*.bundle
+/*.dll
+/*.dylib
+/*.so
+/*.exe
+
+# ===== Visual Studio =====
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.vcxproj.filters.user
+*.vcxproj.filters
+
+# ===== Xcode =====
+*.xcworkspace
+*.xcuserdatad
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+DerivedData/
+build/
+
+# ===== CMake =====
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ===== Qt / qmake =====
+*.pro.user*
+*.qmake.stash
+
+# ===== Temporary / OS files =====
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.tmp
+*.log
+
+# ===== Misc object/code files =====
+*.obj
+*.o
+*.pyc
