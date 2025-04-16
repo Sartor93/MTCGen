@@ -31,7 +31,7 @@ Also note that this tool was created with ChatGPT.
 
 ## Requirements
 
-- [JUCE 7.x](https://juce.com/) (tested with 7.1+)  
+- [JUCE 7.x](https://juce.com/) (tested with 8.0.7)  
 - C++17‑compatible compiler  
 - Visual Studio 2022 (Windows) or Xcode 12+ (macOS)  
 - Projucer (to open the project and export your IDE solution)
