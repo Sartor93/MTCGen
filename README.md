@@ -68,7 +68,3 @@ Should you realize that the coding style differs from common best practices feel
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-*Enjoy rock‑solid MIDI Timecode synchronization directly from your DAW!*  
