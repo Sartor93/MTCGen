@@ -63,6 +63,8 @@ Use a MIDI loopback (e.g. LoopBe1) and a monitor (e.g. TimeCode Monitor) or your
 2. Make your changes, respecting the existing style (JUCE conventions, tabs/spaces).  
 3. Submit a pull request with a clear description of your additions.
 
+Should you realize that the coding style differs from common best practices feel free to let me know. This tool was created with the use of ChatGPT, so it might not be the best style. 
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
