@@ -3,15 +3,25 @@
 <JUCERPROJECT id="TzCyIT" name="MTCGen" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
   <MAINGROUP id="ubCuYA" name="MTCGen">
-    <GROUP id="{5026D6A4-528F-0191-30CF-0003CF526C55}" name="Source">
-      <FILE id="Kk4ph3" name="PluginProcessor.cpp" compile="1" resource="0"
-            file="Source/PluginProcessor.cpp"/>
-      <FILE id="qPvzD0" name="PluginProcessor.h" compile="0" resource="0"
-            file="Source/PluginProcessor.h"/>
-      <FILE id="sHMHIv" name="PluginEditor.cpp" compile="1" resource="0"
-            file="Source/PluginEditor.cpp"/>
-      <FILE id="AnvBUZ" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
-    </GROUP>
+    <GROUP id="{5026D6A4-528F-0191-30CF-0003CF526C55}" name="Source"/>
+    <FILE id="SI81K8" name="MappingEntry.cpp" compile="1" resource="0"
+          file="Source/MappingEntry.cpp"/>
+    <FILE id="vGqcMc" name="MappingEntry.h" compile="0" resource="0" file="Source/MappingEntry.h"/>
+    <FILE id="nNH9NT" name="MappingTableComponent.cpp" compile="1" resource="0"
+          file="Source/MappingTableComponent.cpp"/>
+    <FILE id="Pfq4Cz" name="MappingTableComponent.h" compile="0" resource="0"
+          file="Source/MappingTableComponent.h"/>
+    <FILE id="q4pDrj" name="MidiOutputSelector.cpp" compile="1" resource="0"
+          file="Source/MidiOutputSelector.cpp"/>
+    <FILE id="rvByCd" name="MidiOutputSelector.h" compile="0" resource="0"
+          file="Source/MidiOutputSelector.h"/>
+    <FILE id="gGa0Gc" name="MTCGenEditor.cpp" compile="1" resource="0"
+          file="Source/MTCGenEditor.cpp"/>
+    <FILE id="lrY8Zj" name="MTCGenEditor.h" compile="0" resource="0" file="Source/MTCGenEditor.h"/>
+    <FILE id="sDNyDc" name="MTCGenProcessor.cpp" compile="1" resource="0"
+          file="Source/MTCGenProcessor.cpp"/>
+    <FILE id="k0xpYj" name="MTCGenProcessor.h" compile="0" resource="0"
+          file="Source/MTCGenProcessor.h"/>
   </MAINGROUP>
   <MODULES>
     <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
