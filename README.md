@@ -1,6 +1,7 @@
 # MTCGen
 
-🚧 **Under Active Development** 🚧  
+🚧 **Under Active Development** 🚧 
+
 This plugin is an early prototype and still has known bugs and rough edges.  
 Use at your own risk, and please report any issues or feature requests in the issue tracker.
 
